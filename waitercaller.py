@@ -7,4 +7,4 @@ def home():
     return "Under Construction"
 
 if __name__ == '__main__':
-    app.run(port=5000,debu=True)
+    app.run(port=5000,debug=True)
